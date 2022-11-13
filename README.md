@@ -3,7 +3,7 @@
  A Binary Search Tree implementation to present the basic operations of the algorithm
  
  
- # The Methods 
+ # Algorithms
  
  1.insert
  
