@@ -6,6 +6,7 @@
  # The Methods 
  
  1.insert
+ 
  2.search
  4.traversals
  4.delete *TODO
