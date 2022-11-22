@@ -31,7 +31,7 @@ function add(){
   text("preorder: " + preorder,10,50);
   fill('white');
   textAlign(LEFT);
-  text("preorder: " + postorder,10,70)
+  text("postorder: " + postorder,10,70)
   
 }
 
