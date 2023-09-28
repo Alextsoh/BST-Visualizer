@@ -17,10 +17,10 @@ Tree.prototype.min = function(){
 }
 
 Tree.prototype.traversal = function(){
- var paok=this.root.Traversals(this.root);
- var inorder=paok.arr1,
-     preorder=paok.arr2,
-     postorder=paok.arr3;
+ var temp=this.root.Traversals(this.root);
+ var inorder=temp.arr1,
+     preorder=temp.arr2,
+     postorder=temp.arr3;
 
   return {a1:inorder,
           a2:preorder,
